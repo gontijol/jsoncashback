@@ -1,10 +1,82 @@
 {
   "users": 
-  [{
+  [
+    {
     "name": "Luigi",
     "surname": "Gontijo",
     "email": "teste@email.com",
     "cash": 999.99,
     "cashback": 20
-  }]
+  },
+  {
+    "name": "Gustavo",
+    "surname": "Ribeiro",
+    "email": "teste1@email.com",
+    "cash": 900.99,
+    "cashback": 20
+  },
+  {
+    "name": "Lucas",
+    "surname": "Brandao",
+    "email": "teste2@email.com",
+    "cash": 1500.99,
+    "cashback": 20
+  },
+  {
+    "name": "Dirson",
+    "surname": "Campos",
+    "email": "teste3@email.com",
+    "cash": 3000.99,
+    "cashback": 20
+  },
+  {
+    "name": "Nome1",
+    "surname": "Sobrenome1",
+    "email": "nome1@email.com",
+    "cash": 305,
+    "cashback": 20
+  },
+  {
+    "name": "Nome2",
+    "surname": "Sobrenome2",
+    "email": "nome2@email.com",
+    "cash": 9989.45,
+    "cashback": 20
+  },
+  {
+    "name": "Nome3",
+    "surname": "Sobrenome3",
+    "email": "nome3@email.com",
+    "cash": 1223.45,
+    "cashback": 20
+  },
+  {
+    "name": "Nome4",
+    "surname": "Sobrenome4",
+    "email": "nome4@email.com",
+    "cash": 1003.45,
+    "cashback": 20
+  },
+  {
+    "name": "Nome5",
+    "surname": "Sobrenome5",
+    "email": "nome5@email.com",
+    "cash": 443.45,
+    "cashback": 20
+  },
+  {
+    "name": "Nome6",
+    "surname": "Sobrenome6",
+    "email": "nome6@email.com",
+    "cash": 1224.45,
+    "cashback": 20
+  },
+  {
+    "name": "Nome7",
+    "surname": "Sobrenome7",
+    "email": "nome7@email.com",
+    "cash": 23.45,
+    "cashback": 20
+  }
+]
 }
