@@ -1,13 +1,10 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
+  "users": 
+  [{
+    "name": "Luigi",
+    "surname": "Gontijo",
+    "email": "teste@email.com",
+    "cash": 999.99,
+    "cashback": 20
+  }]
 }
